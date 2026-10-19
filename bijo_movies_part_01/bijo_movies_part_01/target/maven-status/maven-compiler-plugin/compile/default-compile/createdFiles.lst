@@ -1,0 +1,8 @@
+pl\edu\atar\domain\mapper\MovieListMapper.class
+pl\edu\atar\domain\repository\MovieRepository.class
+pl\edu\atar\domain\entity\Movie.class
+pl\edu\atar\domain\dto\CreateMovieDto.class
+pl\edu\atar\Application.class
+pl\edu\atar\service\MovieService.class
+pl\edu\atar\controller\MovieApiController.class
+pl\edu\atar\domain\dto\MovieDto.class
